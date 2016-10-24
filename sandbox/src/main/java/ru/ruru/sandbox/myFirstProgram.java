@@ -1,4 +1,6 @@
-public class MyFirstProgram {
+package ru.ruru.sandbox;
+
+public class myFirstProgram {
 
 	public static void main(String[] args) {
 
